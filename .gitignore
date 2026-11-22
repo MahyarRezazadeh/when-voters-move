@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+data/
+output/
+logs/
+*.parquet
+*.csv
+*.zip
+*.tif
+*.shp
+salt.txt
+.Rhistory
