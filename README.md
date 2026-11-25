@@ -36,7 +36,7 @@ Run the scripts from the project root, in numerical order. The main steps are:
 | `06` | Build the voter cohorts |
 | `07`, `plot_event_study.R` | Main difference-in-differences and event-study estimates |
 | `11`–`19` | Decomposition, follow-up, descriptive statistics, tables, county votes and district outcomes |
-| `20`–`54` | Household-level, area-level and neighbourhood-sorting extensions |
+| `20`–`64` | Household-level, area-level and neighbourhood-sorting extensions |
 
 The `run_*_queue.ps1` files run long jobs one at a time on a Windows machine with limited memory.
 
